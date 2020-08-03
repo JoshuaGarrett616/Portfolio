@@ -1,0 +1,113 @@
+.landing-grid {
+    background: #1f4037; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #99f2c8, #1f4037); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #99f2c8, #1f4037); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    text-align: center;
+    top: 0px;
+    bottom: 0px;
+}
+
+.landing-div {
+    background: #1f4037; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #99f2c8, #1f4037); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #99f2c8, #1f4037); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    overflow-y: scroll;
+}
+
+.avatar-img {
+    height: 250px;
+    padding-top: 0em;
+    transition: 1s;
+}
+
+.banner-text {
+    background-color: #191919;
+    opacity: .8;
+    width: 100%;
+    margin: auto;
+    border-radius: 10px;
+    min-width: 300px;
+}
+
+.banner-text h1 {
+     font-size: 3.5em;
+     font-weight: bold;
+     color: white;
+     margin: auto;
+     text-align: center;
+     padding: 5px;
+}
+
+.banner-text hr {
+     border-top: 2px groove green;
+     width: 75%;
+     margin: auto;
+}
+
+.banner-text p {
+     color: white;
+     font-size: 20px;
+     padding: 1em;
+}
+
+.banner-text-res {
+    background-color: #191919;
+    opacity: .8;
+    width: 100%;
+    margin: auto;
+    border-radius: 10px;
+    min-width: 300px;
+}
+
+.banner-text-res h1 {
+     font-size: 2em;
+     font-weight: bold;
+     color: white;
+     margin: auto;
+     text-align: center;
+     padding: 5px;
+}
+
+.banner-text-res hr {
+     border-top: 2px groove green;
+     width: 100%;
+     margin: auto;
+}
+
+.banner-text-res p {
+     color: white;
+     font-size: 17px;
+     padding: 1em;
+     text-align: left;
+}
+
+.social-link {
+    background-color: #191919;
+    opacity: .8;
+    width: 100%;
+    margin: auto;
+    border-radius: 10px;
+    min-width: 300px;
+}
+
+.social-link h1 {
+    font-size: 2em;
+    font-weight: bold;
+    color: white;
+    margin: auto;
+    text-align: center;
+    padding: 5px;
+}
+
+.social-link hr {
+    border-top: 2px groove green;
+    width: 100%;
+    margin: auto;
+}
+
+.social-link p {
+    color: white;
+    font-size: 17px;
+    padding: 1em;
+    text-align: center;
+}
